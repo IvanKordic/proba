@@ -2,4 +2,6 @@
 
 int main(void){
   printf("IDEMO");
+    printf("IDEMO");
+
 }
